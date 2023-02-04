@@ -2,4 +2,4 @@
 
 This repository contains all the tasks and projects I successfully completed under this course during the next 100 days
 # Day1
-Reviewing some basics HTML elements and tags
+Reviewing some basic HTML elements, tags and attributes
