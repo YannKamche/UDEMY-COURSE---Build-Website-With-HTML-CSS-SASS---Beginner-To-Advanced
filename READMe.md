@@ -4,3 +4,6 @@ This repository contains all the tasks and projects I successfully completed und
 # Day1
 Reviewing some basic HTML elements, tags and attributes
 Added audio files to structure.html
+# Day2
+Added a video file to structure.html
+
