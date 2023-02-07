@@ -6,4 +6,5 @@ Reviewing some basic HTML elements, tags and attributes
 Added audio files to structure.html
 # Day2
 Added a video file to structure.html
-
+# Day3
+Forms attributes, tag and how to manipulate them
